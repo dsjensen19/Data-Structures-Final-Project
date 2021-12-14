@@ -140,6 +140,6 @@ print(8 in tree) # False
 
 ## Practice
 
-For your practice assignment, calculate the big O notation of a binary search tree to a linked list. Using the code from the Linked List excersises, fill both data structures with the letters required to spell out the sentence, "data structures are kool". Then add code to the classes used to count how many times functions must be called recursively in order to pull the letters.You will need to change some of the above functions to do this.
+For your practice assignment, calculate the big O notation of a binary search tree. Using the code above as a starting point, add a way to keep track of how many times the code has to run in order to find if a tree contains information.
 
 For a solution, click [here](unfinished.com)   
